@@ -1,5 +1,6 @@
 # HaziqHakimie
 DE97624 Arduino Uno Texting Angela
+
 // include the LiquidCrystal library
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
